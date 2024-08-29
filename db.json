@@ -1,0 +1,146 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "name": "Elden Ring",
+      "url": "https://assets-prd.ignimgs.com/2022/02/23/eldenring-review-blogroll-1645576973659.jpg",
+      "link": "https://www.youtube.com/embed/E3Huy2cdih0"
+    },
+    {
+      "id": "3",
+      "name": "Valorant",
+      "url": "https://cdn2.unrealengine.com/valorant-share-1200x630-189264726.jpg",
+      "link": "https://www.youtube.com/embed/bNzcejLn4eU"
+    },
+    {
+      "id": "5",
+      "name": "HOTD",
+      "url": "https://i0.wp.com/redanianintelligence.com/wp-content/uploads/2023/09/hotd-list-head3.jpg?fit=1200%2C675&ssl=1",
+      "link": "https://www.youtube.com/embed/HQ8H5gqGA34"
+    },
+    {
+      "id": "6",
+      "name": "Spidy",
+      "url": "https://images.squarespace-cdn.com/content/v1/52c9d908e4b0e87887310693/1570981394645-IL7G2DRXJYBVT2EXV71Z/spiderman-into-spider-verse-5k-7b-2048x2048-1020x1020.jpg?format=750w",
+      "link": "https://www.youtube.com/embed/g4Hbz2jLxvQ"
+    },
+    {
+      "id": "7",
+      "name": "Balerion",
+      "url": "https://awoiaf.westeros.org/images/thumb/d/d4/Aegon_on_Balerion.jpg/1200px-Aegon_on_Balerion.jpg",
+      "link": "https://www.youtube.com/embed/7qMY7IBpl14"
+    },
+    {
+      "id": "8",
+      "name": "Black Myth",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxv-9tQDNtEuCz8sl4V2571y4PmHVPr3E11w&s",
+      "link": "https://www.youtube.com/embed/22oxQoEIUuk"
+    },
+    {
+      "id": "2",
+      "name": "God Of War",
+      "url": "https://assetsio.gnwcdn.com/digitalfoundry-2021-god-of-war-ps5-60fps-patch-analysis-1613222294395.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
+      "link": "https://www.youtube.com/embed/PdNgG9l6HIw"
+    },
+    {
+      "id": "4",
+      "name": "GOT",
+      "url": "https://image.hurimg.com/i/hurriyet/75/750x422/5691537667b0a91a9897a031.jpg",
+      "link": "https://www.youtube.com/embed/70V1aWbmlwo"
+    }
+  ],
+  "watchHistory": [
+    {
+      "name": "Valorant",
+      "link": "https://www.youtube.com/embed/bNzcejLn4eU",
+      "timeStamp": "26/08/2024, 14:29:49",
+      "id": 5
+    },
+    {
+      "name": "Black Myth",
+      "link": "https://www.youtube.com/embed/22oxQoEIUuk",
+      "timeStamp": "26/08/2024, 14:41:12",
+      "id": 6
+    },
+    {
+      "name": "Spidy",
+      "link": "https://www.youtube.com/embed/g4Hbz2jLxvQ",
+      "timeStamp": "26/08/2024, 14:48:00",
+      "id": 7
+    },
+    {
+      "name": "Black Myth",
+      "link": "https://www.youtube.com/embed/22oxQoEIUuk",
+      "timeStamp": "26/08/2024, 15:11:50",
+      "id": 8
+    },
+    {
+      "name": "Elden Ring",
+      "link": "https://www.youtube.com/embed/E3Huy2cdih0",
+      "timeStamp": "27/08/2024, 14:12:05",
+      "id": 11
+    },
+    {
+      "name": "Black Myth",
+      "link": "https://www.youtube.com/embed/22oxQoEIUuk",
+      "timeStamp": "28/08/2024, 13:51:56",
+      "id": 12
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "movies",
+      "allVideos": [
+        {
+          "id": "6",
+          "name": "Spidy",
+          "url": "https://images.squarespace-cdn.com/content/v1/52c9d908e4b0e87887310693/1570981394645-IL7G2DRXJYBVT2EXV71Z/spiderman-into-spider-verse-5k-7b-2048x2048-1020x1020.jpg?format=750w",
+          "link": "https://www.youtube.com/embed/g4Hbz2jLxvQ"
+        },
+        {
+          "id": "5",
+          "name": "HOTD",
+          "url": "https://i0.wp.com/redanianintelligence.com/wp-content/uploads/2023/09/hotd-list-head3.jpg?fit=1200%2C675&ssl=1",
+          "link": "https://www.youtube.com/embed/HQ8H5gqGA34"
+        },
+        {
+          "id": "4",
+          "name": "GOT",
+          "url": "https://image.hurimg.com/i/hurriyet/75/750x422/5691537667b0a91a9897a031.jpg",
+          "link": "https://www.youtube.com/embed/70V1aWbmlwo"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Games",
+      "allVideos": [
+        {
+          "id": "2",
+          "name": "God Of War",
+          "url": "https://assetsio.gnwcdn.com/digitalfoundry-2021-god-of-war-ps5-60fps-patch-analysis-1613222294395.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
+          "link": "https://www.youtube.com/embed/PdNgG9l6HIw"
+        },
+        {
+          "id": "8",
+          "name": "Black Myth",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxv-9tQDNtEuCz8sl4V2571y4PmHVPr3E11w&s",
+          "link": "https://www.youtube.com/embed/22oxQoEIUuk"
+        },
+        {
+          "id": "3",
+          "name": "Valorant",
+          "url": "https://cdn2.unrealengine.com/valorant-share-1200x630-189264726.jpg",
+          "link": "https://www.youtube.com/embed/bNzcejLn4eU"
+        },
+        {
+          "id": "1",
+          "name": "Elden Ring",
+          "url": "https://assets-prd.ignimgs.com/2022/02/23/eldenring-review-blogroll-1645576973659.jpg",
+          "link": "https://www.youtube.com/embed/E3Huy2cdih0"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
